@@ -1,4 +1,4 @@
-#Summary Introduction Mobile App Development
+# Summary Introduction Mobile App Development
 
 - software adalah perangkat lunak yang tersimpan dan dapat dikendalikan pada sistem komputer, terbentuk dari perintah perintah dan tidak memiliki bentuk fisik
 - mobile app development merupakan sebuah proses pengembangan aplikasi untuk perangkat mobile. terdapat 2 sistem operasi pada perangkat mobile yaitu ios dan android.
