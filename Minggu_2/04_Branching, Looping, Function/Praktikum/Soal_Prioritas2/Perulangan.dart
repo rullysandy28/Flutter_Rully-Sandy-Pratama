@@ -16,7 +16,6 @@ void main(List<String> args) {
   print("");
 
   //nomor 2
-
   int n = 6;
   //i = baris
   //j = kolom
